@@ -1,12 +1,12 @@
 <style>
-body {
+body{
     font-family: Arial, sans-serif;
     max-width: 800px;
     background: light blue;
     margin: 20px;
     }
 
-h1 {
+h1{
     color: Navy;
     text-align: center;
     border-bottom: 3px solid #667eea;
@@ -14,14 +14,14 @@ h1 {
     margin-bottom: 25px;
     }
     
-h2 {
+h2{
     color: black;
     margin-top: 30px;
     border-left: 4px solid #3498db;
     padding-left: 15px;
     }
 
-h3 {
+h3{
     color: Navy;
     background: #f8f9fa;
     padding: 10px;
@@ -29,37 +29,37 @@ h3 {
     margin-top: 25px;
     }
     
-p {
+p{
     color: black;
     font-size: 16px;
     margin: 15px 0;
     }
     
-img {
+img{
     display: block;
     margin: 0 auto;
     border-radius: 8px;
     }
     
-a {
+a{
     color: darkred;
     text-decoration: none;
     font-weight: bold;
     }
     
-a:hover {
+a:hover{
     color: darkred;
     text-decoration: underline;
     }
     
-ul {
+ul{
     background: light blue;
     padding: 20px;
     border-radius: 8px;
     margin: 15px 0;
     }
     
-li {
+li{
     margin: 10px 0;
     padding: 8px;
     background: white;
